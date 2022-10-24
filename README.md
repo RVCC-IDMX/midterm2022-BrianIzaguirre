@@ -1,2 +1,2 @@
 # Brian Izaguirre
-This is for the midterm
+This is for the midterm.
