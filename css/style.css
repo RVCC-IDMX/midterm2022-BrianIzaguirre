@@ -44,7 +44,7 @@ section#Work{
 }
 /*-------------------------------*/
 
-/*Security*/
+/*Services*/
 section#services{
     background-color: #51525C;
     color:#C7CAD6;
@@ -64,6 +64,7 @@ section#services{
 }
 /*-------------------------------*/
 
+/*Security*/
 section#Security{
     background-color: #3E4661;
     color:#A6A18D;
@@ -84,6 +85,17 @@ section#Security{
     align-items:center;
 
 }
+/*-------------------------------*/
+
+/*Contact Info*/
+
+section#contact{
+    display: Flex;
+    flex-direction: column;
+    align-items: center;
+}
+/*-------------------------------*/
+
 
 
 
