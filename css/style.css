@@ -5,6 +5,12 @@ body {
 }
 /*-------------------------------*/
 
+/*header 1*/
+h1{
+    text-align: center;
+}
+/*-------------------------------*/
+
 /*Portfolio*/
 Section#Portfolio{
     background-color: #A6A18D;
