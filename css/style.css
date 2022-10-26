@@ -1,0 +1,93 @@
+body {
+    font-family:"Merienda"; 
+    background-color: #C7CAD6;
+    color:#3E4661; 
+}
+/*-------------------------------*/
+
+/*Portfolio*/
+Section#Portfolio{
+    background-color: #A6A18D;
+    border-radius: 3rem;
+    text-align: left;
+    
+}
+
+#Portfolio img {
+    border-radius: 3in;
+    display:flex; 
+    align-items: center;
+    padding-top: 3rem;
+}
+
+Section#list {
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+#list ul li:nth-child(2n+1) {
+    color:#C7CAD6;
+}
+/*-------------------------------*/
+
+/*how we work*/
+section#Work{
+    background-color: #61A6C7;
+    text-align: center;
+    border-radius: 3rem;
+}
+
+#Work img{
+    border-radius: 1in;
+    padding-top: 2rem;
+}
+/*-------------------------------*/
+
+/*Security*/
+section#services{
+    background-color: #51525C;
+    color:#C7CAD6;
+    border-radius: 3rem;
+    display:flex; 
+    flex-direction:column;
+    align-items: center;
+}
+
+#services img{
+    border-radius: 1in;
+    padding: 3rem;
+}
+
+#services ul li:nth-child(2n+2){
+    color:#61A6C7;
+}
+/*-------------------------------*/
+
+section#Security{
+    background-color: #3E4661;
+    color:#A6A18D;
+    border-radius: 3rem;
+}
+
+#Security img{
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#offer{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+
+}
+
+
+
+
+    
+
+
